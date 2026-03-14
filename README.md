@@ -48,13 +48,14 @@ Languages          Python  C/C++  Go  Java  SQL  Bash
 
 ## Certifications
 
-| Certification | Issuer | Credential |
+| Certification | Issuer | Valid |
 |---|---|---|
-| [Azure DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/MANNERAHULSURYA-7535/37B05EE486FC7C48?sharingId=F0001D2790D49029) | Microsoft | Verified |
-| [Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MANNERAHULSURYA-7535/207D02657A2D302A?sharingId=F0001D2790D49029) | Microsoft | Verified |
-| [Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MANNERAHULSURYA-7535/A4B538A8CD807D1B?sharingId=F0001D2790D49029) | Microsoft | Verified |
-| [OCI Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=70715446A842C0D4A726AB15EB2F4377845ACB047BA892E6FDB54E2CF91F2BF9) | Oracle | Valid until Jul 2026 |
-| [Google Cybersecurity Specialization](https://www.coursera.org/professional-certificates/google-cybersecurity) | Google / Coursera | Verified |
+| [Azure DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/MANNERAHULSURYA-7535/37B05EE486FC7C48?sharingId=F0001D2790D49029) | Microsoft | Until Jun 2026 |
+| [Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MANNERAHULSURYA-7535/207D02657A2D302A?sharingId=F0001D2790D49029) | Microsoft | Until Jun 2026 |
+| [Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MANNERAHULSURYA-7535/A4B538A8CD807D1B?sharingId=F0001D2790D49029) | Microsoft | Until Jun 2026 |
+| [OCI Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=70715446A842C0D4A726AB15EB2F4377845ACB047BA892E6FDB54E2CF91F2BF9) | Oracle | Until Jul 2026 |
+| [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/1XZO3DY7GYIL) | Google / Coursera | Verified |
+| [McKinsey Forward Program](https://www.credly.com/badges/2ac1b9cc-ce98-4db8-9126-49b09a2ec214/linked_in_profile) | McKinsey & Company | Verified |
 
 ---
 
