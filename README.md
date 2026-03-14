@@ -1,6 +1,6 @@
 # Rahul Surya
 
-**HPC & Distributed Systems Engineer** — MSc High-Performance Computing with Data Science, University of Edinburgh.
+**Software Engineer - ML Systems** — MSc High-Performance Computing with Data Science, University of Edinburgh.
 
 I build systems that scale. From parallel simulations on national supercomputers to production ML inference servers, my work sits at the boundary of high-performance compute, distributed data infrastructure, and applied ML. The handle *CosmicAlgo* reflects that instinct — finding the algorithm in the noise, whether that noise is meteorological sensor data, academic literature at scale, or a GPU cluster under load.
 
