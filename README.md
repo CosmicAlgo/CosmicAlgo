@@ -14,7 +14,7 @@ Looking for part-time remote work or on-site Edinburgh roles while I finish the 
 
 **[Timeline-Explorer](https://github.com/CosmicAlgo/Timeline-Explorer)** — Takes academic PDFs and turns them into structured knowledge timelines. NER, hybrid semantic search, automated metadata extraction.
 
-**LLM Inference Server** — REST API for transformer inference. KV-cache, SSE streaming, containerised. FastAPI + PyTorch + Docker.
+**[LLM Inference Server](https://github.com/CosmicAlgo/LLM-Inference-Server)** — REST API for transformer inference. KV-cache, SSE streaming, containerised. FastAPI + PyTorch + Docker.
 
 **[hpc-sandpile-model](https://github.com/CosmicAlgo/hpc-sandpile-model)** — Parallel Abelian Sandpile simulation in C. 2D domain decomposition on ARCHER2, non-blocking halo exchange, 85% parallel efficiency at 64 cores. MPI + OpenMP.
 
