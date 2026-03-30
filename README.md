@@ -4,7 +4,16 @@ MSc HPC with Data Science at Edinburgh. Previously built ML systems at ISRO that
 
 Most of my work lives somewhere between ML and systems: training pipelines that actually run fast, parallel code that doesn't embarrass itself on a supercomputer, APIs that hold up under load. I care about the stuff underneath the model — memory, scheduling, latency.
 
-Looking for part-time remote work or on-site Edinburgh roles while I finish the MSc. UK Graduate Route Visa from August 2026.
+Looking for graduate roles in HPC, Data Engineering, and MLOps in the UK. UK Graduate Route Visa from August 2026.
+
+---
+
+## Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmicAlgo&show_icons=true&hide_rank=true&hide=issues&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicAlgo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter+notebook,html,css,scss" height="160" alt="Top Languages" />
+</p>
 
 ---
 
@@ -20,19 +29,21 @@ Looking for part-time remote work or on-site Edinburgh roles while I finish the 
 
 **[c-dynamic-affinity-scheduler](https://github.com/CosmicAlgo/c-dynamic-affinity-scheduler)** — Custom OpenMP scheduler in C. Dynamic affinity scheduling to minimise lock contention in HPC workloads.
 
+**[Sentinel-Scan](https://github.com/xenon-creator/Sentinel-Scan)** — Security scanning tool. Automated vulnerability and misconfiguration detection across network targets. Python.
+
 **Distributed ETL Pipeline** — Ingests 1 GB financial datasets into a hybrid SQL/NoSQL schema. Redis caching layer, 10 ms query latency. Python, PostgreSQL, MongoDB, Redis.
 
 ---
 
 ## Where I've worked
 
-**ISRO National Remote Sensing Centre** — ML Engineer Intern *(Oct 2023 – Jan 2024)*
+**ISRO National Remote Sensing Centre** — ML Engineer Intern (Oct 2023 – Jan 2024)  
 Built a ConvLSTM lightning prediction system end-to-end in PyTorch. 92% accuracy on live data, deployed to active meteorologist workflows. Cut training time 35% by optimising on 500 GB WRF datasets with VAE. Also built the React dashboard they used to monitor it.
 
-**Clustor Computing** — Data Science Intern *(Jun 2023 – Sep 2023)*
+**Clustor Computing** — Data Science Intern (Jun 2023 – Sep 2023)  
 Stock price models, 94% directional accuracy. Data pipelines and Tableau dashboards for investment teams.
 
-**Develoscope Software Solutions** — Software Engineer Intern *(Jun 2023 – Sep 2023)*
+**Develoscope Software Solutions** — Software Engineer Intern (Jun 2023 – Sep 2023)  
 Four Java web apps shipped from scratch to production. JSP, Tomcat.
 
 ---
@@ -40,11 +51,11 @@ Four Java web apps shipped from scratch to production. JSP, Tomcat.
 ## Stack
 
 ```
-Languages        Python  C/C++  Go  Java  SQL  Bash
-ML               PyTorch  TensorFlow  Hugging Face  Scikit-learn
-HPC              MPI  OpenMP  CUDA  ARCHER2  Slurm
-Infra            Azure  Docker  Kubernetes  CI/CD
-Data             Spark  PostgreSQL  MongoDB  Redis  Kafka
+Languages   Python  C/C++  Go  Java  SQL  Bash
+ML          PyTorch  TensorFlow  Hugging Face  Scikit-learn
+HPC         MPI  OpenMP  CUDA  ARCHER2  Slurm
+Infra       Azure  Docker  Kubernetes  CI/CD
+Data        Spark  PostgreSQL  MongoDB  Redis  Kafka
 ```
 
 ---
@@ -62,4 +73,4 @@ Data             Spark  PostgreSQL  MongoDB  Redis  Kafka
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulsurya03-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsurya03) &nbsp; [![Email](https://img.shields.io/badge/Email-rahulsurya021-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rahulsurya021@outlook.com)
+[LinkedIn](https://linkedin.com/in/rahulsurya03) &nbsp;·&nbsp; [Email](mailto:rahulsurya021@outlook.com) &nbsp;·&nbsp; [Portfolio](https://cosmicalgo.dev)
