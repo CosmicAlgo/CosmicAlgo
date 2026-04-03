@@ -1,6 +1,6 @@
 # Rahul Surya
 
-MSc HPC with Data Science at Edinburgh. Previously built ML systems at ISRO that ran in production — real meteorological data, real users, real constraints.
+MSc HPC with Data Science at Edinburgh. Previously built ML research pipeline systems at ISRO on real meteorological data, real users, real constraints.
 
 Most of my work lives somewhere between ML and systems: training pipelines that actually run fast, parallel code that doesn't embarrass itself on a supercomputer, APIs that hold up under load. I care about the stuff underneath the model — memory, scheduling, latency.
 
