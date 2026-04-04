@@ -50,15 +50,31 @@ Looking for graduate roles in HPC, Data Engineering, and MLOps in the UK. UK Gra
 
 ## Projects
 
+### HPC & Systems
+
+**[Optimized-Molecular-Dynamics-Simulation](https://github.com/CosmicAlgo/Optimized-Molecular-Dynamics-Simulation)** — N-body MD simulation optimised from 872s → 27.4s on AMD EPYC 7742 (Zen 2). Cache-aware programming, loop fusion, and compiler tuning. No parallelism — pure single-core performance engineering. C, HPC.
+
+**[HPC-MPI-Prey-Predator-simulation](https://github.com/CosmicAlgo/HPC-MPI-Prey-Predator-simulation)** — High-performance parallel predator-prey simulation using a custom MPI-based Actor Framework. Distributed grid decomposition, real-time telemetry, WebGL topology visualiser for rank partitioning. C, MPI, C++.
+
+**[hpx-matmul-demo](https://github.com/CosmicAlgo/hpx-matmul-demo)** — Matrix multiplication benchmarks using HPX, a C++ standard library for concurrency and parallelism. Demonstrates task-based parallelism and async execution for HPC workloads. C++.
+
+**[hpc-sandpile-model](https://github.com/CosmicAlgo/hpc-sandpile-model)** — Parallel Abelian Sandpile simulation in C. 2D domain decomposition on ARCHER2, non-blocking halo exchange, 85% parallel efficiency at 64 cores. MPI + OpenMP.
+
+**[c-dynamic-affinity-scheduler](https://github.com/CosmicAlgo/c-dynamic-affinity-scheduler)** — Custom OpenMP scheduler in C. Dynamic affinity scheduling to minimise lock contention in HPC workloads.
+
+### ML & Data
+
 **[ScholarLens](https://github.com/CosmicAlgo/ScholarLens)** — Search and analysis tool for academic literature. Semantic search over large paper corpora, LLM-powered trend extraction, topic evolution over time. Python, Docker, CI pipeline.
 
 **[Timeline-Explorer](https://github.com/CosmicAlgo/Timeline-Explorer)** — Takes academic PDFs and turns them into structured knowledge timelines. NER, hybrid semantic search, automated metadata extraction.
 
 **[LLM Inference Server](https://github.com/CosmicAlgo/LLM-Inference-Server)** — REST API for transformer inference. KV-cache, SSE streaming, containerised. FastAPI + PyTorch + Docker.
 
-**[hpc-sandpile-model](https://github.com/CosmicAlgo/hpc-sandpile-model)** — Parallel Abelian Sandpile simulation in C. 2D domain decomposition on ARCHER2, non-blocking halo exchange, 85% parallel efficiency at 64 cores. MPI + OpenMP.
+### Automation & Tools
 
-**[c-dynamic-affinity-scheduler](https://github.com/CosmicAlgo/c-dynamic-affinity-scheduler)** — Custom OpenMP scheduler in C. Dynamic affinity scheduling to minimise lock contention in HPC workloads.
+**[AutomationB-Showcase](https://github.com/CosmicAlgo/AutomationB-Showcase)** — EtsyBot: fully autonomous pipeline that researches trending niches via Google Trends, generates AI art, writes SEO-optimised listings, and publishes to Etsy via v3 API. 5 stages, 3 AI integrations, 0 manual steps. Python, Gemini, Leonardo.ai, Docker. [[Live Demo]](https://cosmicalgo.github.io/AutomationB-Showcase/)
+
+**[Career](https://github.com/CosmicAlgo/Career)** — Daily career intelligence dashboard: GitHub profile analysis, live job market matching, and skill gap tracking powered by Gemini Flash. Python, Next.js, GitHub API.
 
 **[Sentinel-Scan](https://github.com/xenon-creator/Sentinel-Scan)** — Security scanning tool. Automated vulnerability and misconfiguration detection across network targets. Python.
 
@@ -68,13 +84,13 @@ Looking for graduate roles in HPC, Data Engineering, and MLOps in the UK. UK Gra
 
 ## Where I've worked
 
-**ISRO National Remote Sensing Centre** — ML Engineer Intern (Oct 2023 – Jan 2024)  
+**ISRO National Remote Sensing Centre** — ML Engineer Intern (Oct 2023 – Jan 2024)
 Built a ConvLSTM lightning prediction system end-to-end in PyTorch. 92% accuracy on live data, deployed to active meteorologist workflows. Cut training time 35% by optimising on 500 GB WRF datasets with VAE. Also built the React dashboard they used to monitor it.
 
-**Clustor Computing** — Data Science Intern (Jun 2023 – Sep 2023)  
+**Clustor Computing** — Data Science Intern (Jun 2023 – Sep 2023)
 Stock price models, 94% directional accuracy. Data pipelines and Tableau dashboards for investment teams.
 
-**Develoscope Software Solutions** — Software Engineer Intern (Jun 2023 – Sep 2023)  
+**Develoscope Software Solutions** — Software Engineer Intern (Jun 2023 – Sep 2023)
 Four Java web apps shipped from scratch to production. JSP, Tomcat.
 
 ---
@@ -92,4 +108,4 @@ Four Java web apps shipped from scratch to production. JSP, Tomcat.
 
 ---
 
-[LinkedIn](https://linkedin.com/in/rahulsurya03) &nbsp;·&nbsp; [Email](mailto:rahulsurya021@outlook.com) &nbsp;·&nbsp; [Portfolio](https://cosmicalgo.dev)
+[LinkedIn](https://linkedin.com/in/rahulsurya03)  ·  [Email](mailto:rahulsurya021@outlook.com)  ·  [Portfolio](https://cosmicalgo.dev)
